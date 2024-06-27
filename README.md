@@ -10,8 +10,8 @@
 - 👯 I’m looking to collaborate on **frontend and database**
 
 - 🤝 I’m looking for help with **frontend**
-- 
-- i will post some pdf's of btech cse subjects which can help students 
+   ****A undergraduate student who is aspire to learn new technologies *****_**
+- **i will post some pdf's of btech cse subjects which can help students the notes are prepared on my own** 
 
 - 📫 How to reach me **sairohith7021@gmail.com**
 
